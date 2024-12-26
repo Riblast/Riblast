@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Franco Fleitas</h1>
-<h3 align="center">A passionate frontend developer from Uruguay</h3>
+<h1 align="left">Hi 👋, I'm Franco Fleitas</h1>
+<h3 align="left">A passionate frontend developer from Uruguay</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riblast&label=Profile%20views&color=0eb4b1&style=flat" alt="riblast" /> </p>
 
